@@ -1,0 +1,1125 @@
+/* Responsive----------------------------------------------------------------------------------->>>>>>>>>>>>>>><<<<<<<<<<< Mobile Screen >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width:320px) and (max-width:480px) {
+    .L1{
+        width: 100%;
+        height: 35vh;
+    }
+    .main1 {
+        width: 100%;
+        height: 35vh;
+        background-size: 100%;
+    }
+    .header{
+        height: 95px;
+        letter-spacing: 1px;
+        word-spacing: 25px;
+        position: sticky;
+        top: 0;
+    }
+    .logo{
+        height: 50px;
+        width:20%;
+        background-size: 60%;
+    }
+    .header.nav{
+        width:80%;
+    }
+    a{
+        font-size: 9px;
+    }
+    .search{
+        height: 30px;
+        width: 3.50%;
+    }
+    .T1 {
+        height: 6vh;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .new{
+        height: 25px;
+        text-align: center;
+    }
+    .T1 #prg1 {
+        font-size: 12px;
+        height: 10px;
+    }
+    .btn{
+        padding-top: 25px;
+    }
+    .reg {
+        width: 90px;
+        height: 3vh;
+        font-size: 10px;
+    } 
+    /* 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>------------------------<<<<<<<<<< --Section-2-- >>>>>>>>-------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+    .main2 {
+        height: 38vh;
+    }
+    .L2{
+        height: 38vh;
+        opacity: 0.7;
+    }
+    .T2 {
+        height: 37vh;
+        font-size: 13px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .T2 #prg2 {
+        font-size: 11px;
+        font-weight: 200;
+        height: 12px;
+    }
+    .os{
+        height: 60px;
+        margin-top: 20px;
+    }
+    .stats{
+        height: 50px;
+        width: 100%;
+    }
+    .prg3{
+        width: 100%;
+        height: 30px;
+        font-size: 15px;
+    }
+    /* 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____-------------------------------------<<<<<<<<<< --Section-3-- >>>>>>>>------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+    .main3{
+        width: 100%;
+        height: 100vh;
+    }
+    .T3{
+        height: 80vh;
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .au{
+        z-index: 1;
+    }
+    .T3 #prg4{
+        width: 100%;
+        height: 50px;
+        font-size: 12px;
+        z-index: 1;
+    }
+    .yogapose{
+        gap: 8px;
+        padding-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        z-index: 1;
+    }
+    .pose1 ,.pose2,.pose3{
+        width: 180px;
+        height: 220px;
+    }
+    #pic1{
+        height: 155px;
+        width:180px ;
+    }
+    .image1 #prg5,.image2 #prg5,.image3 #prg5{
+        font-size: 10px;
+        padding-top: 5px;
+        font-weight: 300;
+    }
+    .image1 #prg6,.image2 #prg6,.image3 #prg6{
+        font-size: 10px;
+    }
+     /* 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-4-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main4{
+        width:100%;
+        height: 600px;
+    }
+    .T4{
+        height: 50vh;
+        width: 100%;
+        padding-left: 10px;
+        padding-top: 9px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap-reverse;
+    }
+    .pose4{
+        height: 350px;
+        width: 60%; 
+        padding-top: 9px;
+    }
+    img{
+        height: 370px;
+        width: 250px;
+    }
+    .bi{
+        height: 20px;
+        width: 400px;
+        font-size: 17px;
+    }
+    .T4 #prg7{
+        width: 100%;
+        height: 50px;
+        text-align: left;
+        font-size: 14px;
+        padding-bottom: 60px;
+    }
+    .read{
+        width: 110px;
+        height: 3vh;
+        font-size: 12px;
+    }
+    /* 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-5-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main5{
+        width:100%;
+        height: 90vh;
+    }
+    .T5{
+        height: 50vh;
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+    }
+    .pose5{
+        height: 380px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 12px;
+    }
+    /* img{
+        height: 370px;
+        width: 250px;
+    } */
+    .ne{
+        text-align: left;
+        width: 100%;
+        padding-left: 8px;
+    }
+    .T5 #prg8{
+        padding-top: 20px;
+        width: 120%;
+        height: 60px;
+        font-size: 16px;
+    }
+    #b1{
+        padding-top: 55px;
+    }
+    .read{
+        width: 110px;
+        height: 3vh;
+        font-size: 12px;
+    }
+    /* 6 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-6-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main6{
+        width:100%;
+        height: 120vh;
+    }
+    .T6{
+        height: 20vh;
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+    }
+    .T6 #prg9{
+        width: 100%;
+        height: 100px;
+        padding: 20px;
+        font-size: 13px;
+        text-align: center;
+    }
+    .pricing{
+        width:100%;
+        height: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .price{
+        width: 230px;
+        height: 270px;
+        font-size: 15px;
+        padding-top: 0;
+        padding-bottom: 150px;
+    }
+    .icon1{
+        align-items: center;
+        justify-content: center;
+        height: 20px;
+        padding-top: 10px;
+    }
+    #icon{
+        height: 40px;
+        width: 40px;
+    }
+    .prg10{
+        width: 100%;
+        height: 50px;
+        font-size: 13px;
+        padding-top: 10px;
+        text-align: center;
+    }
+    .order{
+        width:160px;
+        height: 3vh;
+        font-size: 15px;
+    }
+     /* 7>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-7-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+     .main7{
+        width: 100%;
+        height: 350px;
+    }
+    .L3{
+        width: 100%;
+        height: 350px;
+    }
+    .prg11{
+        width: 60%;
+        height: 50px;
+        font-size: 15px;
+        padding-top: 100px;
+        padding-left: 15px;
+        z-index: 1;
+    }
+    .prg12{
+        width: 50%;
+        font-size: 13px;
+        padding-top: 90px;
+        padding-left: 15px;
+    }
+  /* 8>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-8-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main8{
+        width: 100%;
+        height: 35vh;
+    }
+    .T8{
+        padding-top: 60px;
+        font-size: 18px;
+    }
+    .prg13{
+        padding-top: 10px;
+        width: 100%;
+        height: 39px;
+        font-size: 15px;
+    }
+    .mail{
+        padding-top: 50px;
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+    }
+    .gmail{
+        width: 80%;
+        height: 48px;
+        font-size: 18px;
+    }
+    .sub{
+        width: 40%;
+        height: 48px;
+        font-size: 18px;
+
+    }
+    /* 9>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-9-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main9{
+        width: 100%;
+        height: 85vh;
+    }
+    .footer{
+        width: 100%;
+        padding-top: 50px;
+    }
+    .Yogaku{
+        width: 50%;
+        height: 150px;
+        font-size: 16px;
+        padding-bottom: 150px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .prg14{
+        width: 100%;
+        height: 120px;
+        padding-top: 100px;
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        line-height: 18px;
+    }
+    #icon2{
+        gap: 8px;
+    }
+}
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< TABLET SCREEN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width:481px) and (max-width:768px) {
+    .L1{
+        width: 100%;
+        height: 65vh;
+    }
+    .main1 {
+        width: 100%;
+        height: 65vh;
+        background-size: 100%;
+    }
+    .header{
+        height: 100px;
+        letter-spacing: 1px;
+        word-spacing: 25px;
+        position: sticky;
+        top: 0;
+    }
+    .logo{
+        height: 90px;
+        width:20%;
+        background-size: 60%;
+    }
+    .header.nav{
+        width:80%;
+    }
+    a{
+        font-size: 16px;
+    }
+    .search{
+        height: 30px;
+        width: 4.50%;
+    }
+    .T1 {
+        height: 6vh;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .new{
+        padding-top: 350px;
+        height: 25px;
+        text-align: center;
+    }
+    .T1 #prg1 {
+        font-size: 17px;
+        height: 10px;
+    }
+    .btn{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 175px;
+    }
+    .reg {
+        width: 140px;
+        height: 4vh;
+        font-size: 13px;
+        text-align: center;
+        letter-spacing: 2px;
+    } 
+    /* 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>------------------------<<<<<<<<<< --Section-2-- >>>>>>>>-------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+    .main2 {
+        height: 68vh;
+    }
+    .L2{
+        height: 68vh;
+        opacity: 0.8;
+    }
+    .T2 {
+        height: 68vh;
+        font-size: 16px;
+        text-align: center;
+    }
+    .T2 #prg2 {
+        font-size: 17px;
+        height: 20px;
+    }
+    .os{
+        height: 90px;
+    }
+    .stats{
+        padding-top: 200px;
+        height: 50px;
+        width: 100%;
+    }
+    .prg3{
+        width: 100%;
+        height: 40px;
+        font-size: 19px;
+    }
+    /* 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____-------------------------------------<<<<<<<<<< --Section-3-- >>>>>>>>------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+    .main3{
+        width: 100%;
+        height: 132vh;
+    }
+    .T3{
+        height: 98vh;
+        font-size:20px;
+        text-align: center;
+        padding-bottom: 180px;
+    }
+    .au{
+        z-index: 1;
+    }
+    .T3 #prg4{
+        width: 100%;
+        height: 50px;
+        font-size: 18px;
+        z-index: 1;
+    }
+    .yogapose{
+        height: 60vh;
+        gap: 20px;
+        padding-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .pose1 ,.pose2,.pose3{  
+        height: 300px;
+        width: 260px;
+    }
+    #pic1{
+        height: 220px;
+        width:260px ;
+    }
+    .image1 #prg5,.image2 #prg5,.image3 #prg5{
+        font-size: 18px;
+        padding-top: 1px;
+        font-weight: 300;
+    }
+    .image1 #prg6,.image2 #prg6,.image3 #prg6{
+        font-size: 17px;
+        padding-top: 1px;
+    }
+     /* 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-4-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main4{
+        width:100%;
+        height: 640px;
+    }
+    .T4{
+        height: 80vh;
+        width: 100%;
+        padding-left: 10px;
+        padding-top: 9px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: row-reverse;
+    }
+    .pose4{
+        height: 480px;
+        width: 60%; 
+        padding-top: 1px;
+    }
+    img{
+        height: 500px;
+        width: 350px;
+    }
+    .bi{
+        height: 20px;
+        width: 100%;
+        font-size: 20px;
+    }
+    .T4 #prg7{
+        width: 90%;
+        height: 125px;
+        text-align: left;
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .read{
+        width: 120px;
+        height: 4vh;
+        font-size: 16px;
+    }
+    /* 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-5-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main5{
+        width:100%;
+        height: 580px;
+    }
+    .T5{
+        height: 60vh;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: initial;
+        font-size: 20px;
+    }
+    .pose5{
+        height: 550px;
+        width: 60%;
+        padding-left: 0;
+    }
+    #pose6{
+        height: 500px;
+        width: 350px;
+    }
+    .ne{
+        text-align: center;
+        padding-left: 1px;
+        padding-top: 200px;
+        width: 100%;
+        z-index: 1;
+    }
+    .T5 #prg8{
+        padding-top: 10px;
+        width: 100%;
+        height: 50px;
+        font-size: 18px;
+    }
+    .btn2{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 50px;
+        padding-top: 110px;
+    }
+    .read{
+        width: 120px;
+        height: 3.5vh;
+        font-size: 16px;
+    }
+    /* 6 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-6-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main6{
+        width:100%;
+        height: 155vh;
+    }
+    .T6{
+        height: 120px;
+        width: 100%;
+        padding-left: 10px;
+        padding-top: 100px;
+        font-size: 21px;
+    }
+    .T6 #prg9{
+        width: 100%;
+        height: 120px;
+        padding-top: 20px;
+        font-size: 19px;
+        text-align: center;
+    }
+    .pricing{
+        margin-top: 60px;
+        width:100%;
+        height: 40px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 23px;
+    }
+    .price{
+        width: 280px;
+        height: 350px;
+        font-size: 22px;
+        padding-top: 0;
+        padding-bottom: 250px;
+    }
+    .icon1{
+        align-items: center;
+        justify-content: center;
+        height: 20px;
+        padding-top: 5px;
+    }
+    #icon{
+        height: 110px;
+        width: 100px;
+    }
+    .prg10{
+        width: 100%;
+        height: 80px;
+        font-size: 18px;
+        padding-top: 5px;
+        text-align: center;
+    }
+    .order{
+        width: 200px;
+        height: 5vh;
+        font-size: 15px;
+    }
+     /* 7>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-7-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+     .main7{
+        width: 100%;
+        height: 515px;
+    }
+    .L3{
+        width: 100%;
+        height: 515px;
+        opacity: 0.4;
+    }
+    .prg11{
+        width: 60%;
+        height: 50px;
+        font-size: 20px;
+        padding-top: 100px;
+        padding-left: 15px;
+       
+    }
+    .prg12{
+        width: 50%;
+        font-size: 18px;
+        padding-top: 90px;
+        padding-left: 15px;
+    }
+  /* 8>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-8-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main8{
+        width: 100%;
+        height: 55vh;
+    }
+    .T8{
+        padding-top: 90px;
+        font-size: 20px;
+    }
+    .prg13{
+        padding-top: 20px;
+        width: 100%;
+        height: 39px;
+        font-size: 18px;
+    }
+    .mail{
+        padding-top: 80px;
+        width: 100%;
+        height: 150px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    .gmail{
+        width: 80%;
+        height: 48px;
+        font-size: 20px;
+    }
+    .sub{
+        width: 40%;
+        height: 48px;
+        font-size: 20px;
+
+    }
+    /* 9>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-9-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main9{
+        width: 100%;
+        height: 70vh;
+    }
+    .footer{
+        width: 100%;
+        padding-top: 50px;
+    }
+    .Yogaku{
+        width: 25%;
+        height: 120px;
+        font-size: 19px;
+        padding-bottom: 130px;
+        padding-top: 50px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .prg14{
+        width: 100%;
+        height: 120px;
+        padding-top: 30px;
+        font-size: 18px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        line-height: 20px;
+    }
+    #prg15{
+        padding-top: 40px;
+    }
+    #icon2{
+        padding-top: 0;
+        gap: 10px;
+    }
+}
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>LAPTOP SCREEN<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<< */
+@media (min-width:769px) and (max-width:1024px) {
+    .L1{
+        width: 100%;
+        height: 95vh;
+    }
+    .main1 {
+        width: 100%;
+        height: 95vh;
+    }
+    .header{
+        height: 170px;
+        letter-spacing: 2px;
+        word-spacing: 25px;
+        position: sticky;
+        top: 0;
+    }
+    .logo{
+        height: 90px;
+        width:20%;
+        background-size: 40%;
+    }
+    .header.nav{
+        width:80%;
+    }
+    a{
+        font-size: 22px;
+    }
+    .search{
+        height: 50px;
+        width: 6.50%;
+    }
+    .T1 {
+        height: 6vh;
+        font-size: 24px;
+    }
+    .new{
+        padding-top: 350px;
+        height: 45px;
+        text-align: center;
+    }
+    .T1 #prg1 {
+        font-size: 22px;
+        height: 30px;
+    }
+    .btn{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 400px;
+    }
+    .reg {
+        width: 210px;
+        height: 5vh;
+        font-size: 20px;
+    } 
+    /* 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>------------------------<<<<<<<<<< --Section-2-- >>>>>>>>-------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+    .main2 {
+        height: 88vh;
+    }
+    .L2{
+        height: 88vh;
+        opacity: 0.8;
+    }
+    .T2 {
+        height: 78vh;
+        font-size: 24px;
+        text-align: center;
+    }
+    .T2 #prg2 {
+        font-size: 22px;
+        height: 80px;
+    }
+    .os{
+        height: 200px;
+    }
+    .stats{
+        padding-top: 250px;
+        height: 50px;
+        width: 100%;
+    }
+    .prg3{
+        width: 100%;
+        height: 60px;
+        font-size: 24px;
+    }
+    /* 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____-------------------------------------<<<<<<<<<< --Section-3-- >>>>>>>>------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+    .main3{
+        width: 100%;
+        height: 110vh;
+    }
+    .T3{
+        height: 102vh;
+        font-size:22px;
+    }
+    .T3 #prg4{
+        width: 100%;
+        height: 100px;
+        font-size: 22px;
+        z-index: 1;
+    }
+    .yogapose{
+        
+        gap: 25px;
+        padding-top: 30px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .pose1 ,.pose2,.pose3{  
+        height: 350px;
+        width: 280px;
+    }
+    #pic1{
+        height: 260px;
+        width:280px ;
+    }
+    .image1 #prg5,.image2 #prg5,.image3 #prg5{
+        font-size: 19px;
+        padding-top: 5px;
+        font-weight: 300;
+    }
+    .image1 #prg6,.image2 #prg6,.image3 #prg6{
+        font-size: 17px;
+        padding-top: 1px;
+    }
+     /* 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-4-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main4{
+        width:100%;
+        height: 850px;
+    }
+    .T4{
+        height: 850px;
+        width: 100%;
+        padding-left: 15px;
+        padding-top: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: row-reverse;
+        padding-bottom: 200px;
+    }
+    .pose4{
+        height: 500px;
+        width: 100%; 
+        padding-top: 1px;
+    }
+    img{
+        
+        height: 700px;
+        width: 450px;
+    }
+    .bi{
+        height: 20px;
+        width: 100%;
+        font-size: 24px;
+    }
+    .T4 #prg7{
+        width: 90%;
+        height: 125px;
+        text-align: left;
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .read{
+        width: 110px;
+        height: 4vh;
+        font-size: 12px;
+    }
+    /* 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-5-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main5{
+        width:100%;
+        height: 95vh;
+    }
+    .T5{
+        height: 95vh;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap-reverse;
+        font-size: 24px;
+    }
+    .pose5{
+        display: flex;
+        align-items: end;
+        justify-content: end;
+        height: 650px;
+        width: 455px;
+        padding-left: 0;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    #pose6{
+        height: 700px;
+        width: 450px;
+    }
+    .ne{
+        text-align: right;
+        padding-top: 50px;
+        width: 55%;
+        z-index: 2;
+    }
+    .T5 #prg8{
+        padding-top: 10px;
+        width: 100%;
+        height: 30px;
+        font-size: 22px;
+    }
+    .btn2{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: start;
+        justify-content: end;
+        height: 40px;
+        padding-top: 110px;
+    }
+    .read{
+        width: 150px;
+        height: 4vh;
+        font-size: 18px;
+    }
+    /* 6 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-6-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main6{
+        width:100%;
+        height: 115vh;
+    }
+    .T6{
+        height: 100px;
+        width: 100%;
+        padding-left: 50px;
+        padding-top: 100px;
+        font-size: 24px;
+    }
+    .T6 #prg9{
+        width: 100%;
+        height: 120px;
+        padding-top: 30px;
+        font-size: 22px;
+        text-align: center;
+    }
+    .pricing{
+        width:100%;
+        height: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        padding-top: 80px;
+    }
+    .price{
+        width: 280px;
+        height: 380px;
+        font-size: 24px;
+        padding-top: 5px;
+        padding-bottom: 250px;
+    }
+    .icon1{
+        align-items: center;
+        justify-content: center;
+        height: 40px;
+        padding-top: 10px;
+    }
+    #icon{
+        height: 120px;
+        width: 110px;
+    }
+    .prg10{
+        width: 100%;
+        height: 80px;
+        font-size: 22px;
+        padding-top: 7px;
+        text-align: center;
+    }
+    .order{
+        width: 240px;
+        height: 5vh;
+        font-size: 22px;
+    }
+     /* 7>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-7-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+     .main7{
+        width: 100%;
+        height: 600px;
+    }
+    .L3{
+        width: 100%;
+        height: 600px;
+        opacity: 0.6;
+    }
+    .prg11{
+        width: 60%;
+        height: 50px;
+        font-size: 22px;
+        padding-top: 100px;
+        padding-left: 15px;
+       
+    }
+    .prg12{
+        width: 50%;
+        font-size: 22px;
+        padding-top: 110px;
+        padding-left: 25px;
+    }
+  /* 8>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-8-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main8{
+        width: 100%;
+        height: 75vh;
+    }
+    .T8{
+        padding-top: 150px;
+        font-size: 24px;
+    }
+    .prg13{
+        padding-top: 20px;
+        width: 100%;
+        height: 45px;
+        font-size: 22px;
+    }
+    .mail{
+        padding-top: 100px;
+        width: 100%;
+        height: 170px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+    }
+    .gmail{
+        width: 80%;
+        height: 48px;
+        font-size: 22px;
+    }
+    .sub{
+        width: 40%;
+        height: 60px;
+        font-size: 20px;
+
+    }
+    /* 9>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>____--------------------------------------------><<<<<<<<<< --Section-9-- >>>>>>>>------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44*/
+    .main9{
+        width: 100%;
+        height: 50vh;
+    }
+    .footer{
+        width: 100%;
+        padding-top: 50px;
+    }
+    .Yogaku{
+        width: 40%;
+        height: 100px;
+        font-size: 24px;
+        padding-bottom: 130px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .prg14{
+        width: 100%;
+        height: 110px;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        line-height: 20px;
+    }
+    #prg15{
+        padding-top: 20px;
+    }
+    #icon2{
+        gap: 18px;
+    }
+}
